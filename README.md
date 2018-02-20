@@ -92,7 +92,7 @@ top: 100px;
  <div >
 
 
-<img class="textimage" src="https://raw.githubusercontent.com/xela3287/My-Resume/master/LIFE%20c%26g.png"/>
+<img class="textimage" src="My-Resume/LIFE c&g.png">
 
 
 
