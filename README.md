@@ -66,8 +66,8 @@ li a:hover {
 .asidestyle{
 background-color: #000000;
 position: absolute;
-height:600px;
-width: 500px;
+height:200px;
+width: 200px;
 right: 0px;
 top: 0px;
  opacity: 0.5;
