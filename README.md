@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -67,8 +66,8 @@ li a:hover {
 .asidestyle{
 background-color: #000000;
 position: absolute;
-height:500px;
-width: 300px;
+height:100px;
+width: 100px;
 right: 50px;
 top: 100px;
  opacity: 0.5;
@@ -88,7 +87,7 @@ top: 100px;
   
 </ul>
 <div class="hero">
-
+<img class="textimage" src="https://raw.githubusercontent.com/xela3287/My-Resume/master/LIFE%20c%26g.png"/>
  <div >
 
 
