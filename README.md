@@ -68,8 +68,8 @@ background-color: #000000;
 position: relative;
 height:500px;
 width: 500px;
-right: -1000px;
-top:-1000px;
+right: -800px;
+top:-800px;
 
  opacity: 0.5;
  filter: alpha(opacity=50);
